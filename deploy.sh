@@ -26,7 +26,7 @@ download_if_not_exist() {
 }
 
 
-project="advolkit/phaser-starter"
+project="advolkit/match3hell"
 artifact="."
 platform="html"
 
